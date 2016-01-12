@@ -13,7 +13,7 @@ The tutorial consists of the following parts so far:
 
 ### Technologies
 
-* Ruby >= 2.2.3
+* Ruby 2.2.4
 * Ruby on Rails >= 4.2.4
 * PostgreSQL
 
