@@ -13,19 +13,19 @@ The tutorial consists of the following parts so far:
 
 ### Technologies
 
-* Ruby >= 2.2.3;
-* Ruby on Rails >= 4.2.4;
-* PostgreSQL;
+* Ruby >= 2.2.3
+* Ruby on Rails >= 4.2.4
+* PostgreSQL
 
 ### Development Environment Setup
 
 * Mac OS X
-* Install RVM + ruby;
-* brew install postgresql;
-* Set up config/secrets.yml, config/database.yml;
-* rake db:create;
-* rake db:migrate;
-* rails server;
+* Install RVM + ruby
+* brew install postgresql
+* Set up config/secrets.yml and config/database.yml
+* rake db:create
+* rake db:migrate
+* rails server
 
 ## License
 
