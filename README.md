@@ -21,7 +21,7 @@ The tutorial consists of the following parts so far:
 
 * Mac OS X
 * Install [RVM](http://rvm.io) or [rbenv](https://github.com/rbenv/rbenv)
-* Install ruby.
+* Install ruby. e.g. `rvm install 2.2.4` or `rbenv install 2.2.4`
 * Install [Homebrew](https://github.com/Homebrew/homebrew)
 * brew install postgresql
 * Set up config/secrets.yml and config/database.yml
