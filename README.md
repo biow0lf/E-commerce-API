@@ -19,7 +19,7 @@ The tutorial consists of the following parts so far:
 
 ### Development Environment Setup
 
-* Mac OS X
+* Mac OS X or Linux
 * Install [RVM](http://rvm.io) or [rbenv](https://github.com/rbenv/rbenv)
 * Install ruby. e.g. `rvm install 2.2.4` or `rbenv install 2.2.4`
 * Install [Homebrew](https://github.com/Homebrew/homebrew)
