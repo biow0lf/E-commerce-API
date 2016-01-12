@@ -21,6 +21,7 @@ The tutorial consists of the following parts so far:
 
 * Mac OS X
 * Install RVM + ruby
+* Install [Homebrew](https://github.com/Homebrew/homebrew)
 * brew install postgresql
 * Set up config/secrets.yml and config/database.yml
 * rake db:create
